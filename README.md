@@ -2,7 +2,7 @@
 A Python3 re-creation of the popular VapeV4 GUI, fully in python.
 
 <p align="center">
-  <img src="https://img.shields.io:/github/license/NightTabGit/VapeV4-RAT" alt="Code size"/>
+  <img src="https://img.shields.io:/github/license/NightTabGit/FakeV4-GUI" alt="Code size"/>
 </p> <br/> 
   
 ```
